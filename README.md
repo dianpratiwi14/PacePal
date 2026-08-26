@@ -1,8 +1,9 @@
 # PacePal 🏃‍♂️
 
-**UAS Pemrograman Web** — PacePal adalah platform web yang dirancang khusus untuk mendukung komunitas para pelari. Website ini menghadirkan tiga hal utama dalam satu tempat: komunitas lari, artikel informatif seputar dunia lari, dan toko online **PaceStore** yang menjual merchandise serta perlengkapan lari.
+**UAS Pemrograman Web** 
+PacePal adalah platform web yang dirancang khusus untuk mendukung komunitas para pelari. Website ini menghadirkan tiga hal utama dalam satu tempat: komunitas lari, artikel informatif seputar dunia lari, dan toko online **PaceStore** yang menjual merchandise serta perlengkapan lari.
 
-Tujuan utama PacePal adalah menjadi ruang bagi para pelari untuk saling berbagi pengalaman, tips, dan informasi seputar lari — sekaligus memudahkan mereka mendapatkan perlengkapan yang mendukung aktivitas lari mereka, mulai dari pakaian olahraga, sepatu lari, hingga aksesori lainnya.
+Tujuan utama PacePal adalah menjadi ruang bagi para pelari untuk saling berbagi pengalaman, tips, dan informasi seputar lari sekaligus memudahkan mereka mendapatkan perlengkapan yang mendukung aktivitas lari mereka, mulai dari pakaian olahraga, sepatu lari, hingga aksesori lainnya.
 
 > Project ini merupakan bagian dari tugas akhir (UAS) mata kuliah **Pemrograman Web**. PacePal juga dikembangkan secara paralel sebagai aplikasi mobile untuk tugas mata kuliah **Pemrograman Mobile** oleh anggota tim lain, dengan topik dan konsep yang sama.
 
