@@ -6,6 +6,20 @@ Tujuan utama PacePal adalah menjadi ruang bagi para pelari untuk saling berbagi 
 
 > Project ini merupakan bagian dari tugas mata kuliah **Pemrograman Web**. PacePal juga dikembangkan secara paralel sebagai aplikasi mobile untuk tugas mata kuliah **Pemrograman Mobile** oleh anggota tim lain, dengan topik dan konsep yang sama.
 
+## 📸 Tampilan Website
+
+| Homepage | Informasi/Artikel |
+|---|---|
+| ![Homepage](assets/screenshots/home.png) | ![Informasi](assets/screenshots/information.png) |
+
+| PaceStore | Login |
+|---|---|
+| ![PaceStore](assets/screenshots/store.png) | ![Login](assets/screenshots/login.png) |
+
+| Register | |
+|---|---|
+| ![Register](assets/screenshots/register.png) | |
+
 ## ✨ Fitur
 
 - **Komunitas Lari** — ruang berbagi pengalaman dan tips antar pelari
